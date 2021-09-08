@@ -1,0 +1,16 @@
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.csproj.AssemblyReference.cache
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.AssemblyInfoInputs.cache
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.AssemblyInfo.cs
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.csproj.CoreCompileInputs.cache
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.exe
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.deps.json
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.runtimeconfig.json
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.runtimeconfig.dev.json
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.dll
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\ref\FactoryPattern2.dll
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\bin\Debug\net5.0\FactoryPattern2.pdb
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.dll
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\ref\FactoryPattern2.dll
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.pdb
+C:\Users\amori\repos\FactoryPattern2\FactoryPattern2\obj\Debug\net5.0\FactoryPattern2.genruntimeconfig.cache
